@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeListsPrivate.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Keyboard/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Touch-Screen-Library-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/SerialGSM" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/UTFT" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/AltSoftSerial" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_SH1106-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Firmata" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/RDA5807M-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_BMP085" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/ESPAsyncTCP-master/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_ST7735_Library" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Radio/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/ESPAsyncWebServer-master/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/TinyGPSPlus-0.95" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit-MLX90614-Library-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_GFX_Library" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Robot_IR_Remote/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/RF24-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/FreeRTOS/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/TimerOne" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Temboo/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/LiquidCrystal/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Arduino_Vcc-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/VS1053-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/async-mqtt-client-master/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/VS1003" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/NeoGPS-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_Circuit_Playground" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/MCUFRIEND_kbv" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Bridge/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/RadioHead" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/OneWire" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/MPU6050" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/encoder-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/TFTLCD" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/IRremote" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_SSD1306" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/U8glib/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/HMC5983-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/SoftwareSerial/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Mouse/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/HMC5883L" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Robot_Control/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Robot_Motor/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/RobotIRremote/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Bridge/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Mouse/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Ethernet/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/TFT/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/WiFi/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Robot_Motor/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/LiquidCrystal/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Firmata" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Adafruit_CircuitPlayground" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/GSM/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Keyboard/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/SpacebrewYun/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Robot_Control/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Stepper/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Temboo/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Servo/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Esplora/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/SD/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/cores/arduino" />
+          <root url="file://$USER_HOME$/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/4.9.2/include-fixed" />
+          <root url="file://$USER_HOME$/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/4.9.2/include" />
+          <root url="file://$USER_HOME$/.platformio/packages/toolchain-atmelavr/avr/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Keyboard/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Touch-Screen-Library-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/SerialGSM" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/UTFT" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/AltSoftSerial" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_SH1106-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Firmata" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/RDA5807M-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_BMP085" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/ESPAsyncTCP-master/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_ST7735_Library" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Radio/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/ESPAsyncWebServer-master/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/TinyGPSPlus-0.95" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit-MLX90614-Library-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_GFX_Library" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Robot_IR_Remote/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/RF24-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/FreeRTOS/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/TimerOne" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Temboo/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/LiquidCrystal/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Arduino_Vcc-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/VS1053-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/async-mqtt-client-master/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/VS1003" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/NeoGPS-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_Circuit_Playground" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/MCUFRIEND_kbv" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Bridge/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/RadioHead" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/OneWire" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/MPU6050" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/encoder-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/TFTLCD" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/IRremote" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Adafruit_SSD1306" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/U8glib/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/HMC5983-master" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/SoftwareSerial/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Mouse/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/HMC5883L" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Robot_Control/src" />
+          <root url="file://$USER_HOME$/Documents/Arduino/libraries/Robot_Motor/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/RobotIRremote/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Bridge/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Mouse/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Ethernet/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/TFT/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/WiFi/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Robot_Motor/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/LiquidCrystal/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Firmata" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Adafruit_CircuitPlayground" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/GSM/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Keyboard/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/SpacebrewYun/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Robot_Control/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Stepper/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Temboo/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Servo/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/Esplora/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/libraries/SD/src" />
+          <root url="file://$USER_HOME$/.platformio/packages/framework-arduinoavr/cores/arduino" />
+          <root url="file://$USER_HOME$/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/4.9.2/include-fixed" />
+          <root url="file://$USER_HOME$/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/4.9.2/include" />
+          <root url="file://$USER_HOME$/.platformio/packages/toolchain-atmelavr/avr/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
